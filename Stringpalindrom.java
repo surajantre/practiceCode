@@ -1,4 +1,3 @@
-
 public class Stringpalindrom{
     public static Boolean ispalidrom(String str){
         for (int i=0; i<str.length()/2; i++){
