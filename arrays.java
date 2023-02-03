@@ -2,7 +2,7 @@
 // public class arrays {
     
 //     public static void main(String args[]){
-//         int array[]=new int [100];
+/         int array[]=new int [100];
 //         Scanner sc = new Scanner(System.in);
 
 //          array[0]=sc.nextInt();
