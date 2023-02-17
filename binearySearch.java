@@ -30,7 +30,7 @@
 
 // import java.util.*;
 // class binearySearch{
-/     public static int bs(int arr[],int key){
+//     public static int bs(int arr[],int key){
 //         int start = 0;
 //         int end = arr.length-1;
 
