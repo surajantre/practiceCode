@@ -7,7 +7,7 @@
 
 //          array[0]=sc.nextInt();
 //          array[1]=sc.nextInt();
-/          array[2]=sc.nextInt();
+//          array[2]=sc.nextInt();
 
 //          System.out.println("phy:"+array[0]);
 //          System.out.println("chem:"+array[1]);
