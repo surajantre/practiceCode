@@ -146,7 +146,7 @@
 //         int index = linearSearch(arr, key);
 
 //         if (index == -1){
-/             System.out.println("key is not found");
+//             System.out.println("key is not found");
 
 //         }else{
 //             System.out.println("key: " + index);
