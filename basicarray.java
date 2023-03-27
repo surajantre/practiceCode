@@ -3,7 +3,8 @@
 //     public static void main(String []args){
     
 //         int array[]=new int [100];
-//         Scanner sc = new Scanner(System.in);
+
+/         Scanner sc = new Scanner(System.in);
 
 //          array[0]=sc.nextInt();
 //          array[1]=sc.nextInt();
@@ -44,7 +45,7 @@
 //         arr[1]= sc.nextInt();
 //         arr[2]= sc.nextInt();
 
-/         System.out.println("phy"+arr[0]);
+//         System.out.println("phy"+arr[0]);
 //         System.out.println("phy"+arr[1]);
 //         System.out.println("phy"+arr[2]);
 //     }
