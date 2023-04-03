@@ -4,7 +4,7 @@
 //         for(int i=1;i<=topRows;i++){
 //             //inner loop
 //             for(int j=1;j<=topCols;j++){
-/                //cell -(i,j)
+//                //cell -(i,j)
 
 //                 if(i==1||i==topRows||j==1||j==topCols){
 //                     System.out.print("*");
@@ -60,5 +60,5 @@
 //     public static void main(String[] args){
 //         hellowrectangle(4, 5);
 
-//     }
+/     }
  //}
