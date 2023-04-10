@@ -70,7 +70,7 @@
         
 //             }
 //         }
-/             public static void main(String[] args){
+//             public static void main(String[] args){
 //                 zero_one_triangle(5);
 //             }
 // }    

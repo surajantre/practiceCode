@@ -4,7 +4,7 @@
 //         for(int i=0; i<path.length(); i++){
 //             char dir = path.charAt(i);
 //             // south
-//             if(dir =='s'){
+/            if(dir =='s'){
 //                 y--;
 //             }
 //             //north
