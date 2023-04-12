@@ -45,7 +45,7 @@
 //                 System.out.print(matrix[i][endcol]+" ");
 //             }
 
-/             //bottom
+//             //bottom
 //             for(int j=endcol-1; j>=startcol; j--){
 //                 if(startrow==endrow){
 //                     break;
@@ -76,7 +76,7 @@
 //                         { 5,6,7,8},
 //                     {9,10,11,12},
 //                 {13,14,15,16}};
-//         printspiral(matrix);        
+/         printspiral(matrix);        
 
     
 //     }
