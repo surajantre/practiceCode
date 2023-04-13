@@ -36,8 +36,8 @@
 // import java.util.Arrays;
 // public class Arraysac {
 //     public static void main(String[] args){                                          //1
-/         int arr[]= {5,4,1,3,2};
-//         Arrays.sort(arr);
+//         int arr[]= {5,4,1,3,2};
+/         Arrays.sort(arr);
 //         printArr(arr);
 //     }
 
