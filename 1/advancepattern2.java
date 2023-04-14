@@ -10,7 +10,7 @@
 //             System.out.println();
 //         }
 //     }
-/     public static void main(String[] args){
+//     public static void main(String[] args){
 //         inverted_roteted_half_pyramid(8);
 
 
@@ -36,4 +36,4 @@
 //     }
 
 
-// }
+/ }
