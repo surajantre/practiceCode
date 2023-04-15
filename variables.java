@@ -6,4 +6,4 @@
         System.out.print("* *\n");
         System.out.print("*");
     }
-}/* */
+} 
