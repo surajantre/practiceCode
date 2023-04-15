@@ -181,7 +181,7 @@
 //                                           {9,10,11,12},
 //                                       {13,14,15,16}};
 //         int key = 11;
-/         staircasesearch( matrix, key);
+//         staircasesearch( matrix, key);
 
 //     }
 // }
