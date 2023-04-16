@@ -19,7 +19,7 @@
 //         if (si>=ei){
 //             return;
 //         }
-//                   // kassm
+                  // kassm
 //                   int mid = si +(ei - si)/2;
 //                   mergrsort(arr, si, mid);
 //                   mergrsort(arr, mid+1, ei);
@@ -27,7 +27,7 @@
 
 //     }
 //     public static void merge(int arr[],int si,int mid,int ei){
-//         int temp[]= new int[ei-si+1];
+/         int temp[]= new int[ei-si+1];
 //         int i = si;
 //         int j = mid +1;
 //         int k = 0;
