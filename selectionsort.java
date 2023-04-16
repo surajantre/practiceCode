@@ -7,7 +7,7 @@
 //                     minpos = j;
 
 //                 }
-//             }
+/             }
 //             int temp = arr[minpos];
 //             arr[minpos] = arr[i];
 //             arr[i] = temp;
