@@ -4,7 +4,7 @@
 //             for(int j = 1; j <= n-i+1; j++){
 //                 System.out.print(j+" ");
 //             }
-/             System.out.println();
+//            System.out.println();
 //         }
 
 //     }
@@ -29,4 +29,4 @@
 //         inverted_roteted_half_pyramidnumber(4);
 
 //     }
-// }
+/ }
