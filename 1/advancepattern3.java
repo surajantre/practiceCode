@@ -8,7 +8,7 @@
 //         }
 
 //     }
-//     public static void main(String[] args){
+/     public static void main(String[] args){
 //         inverted_roteted_half_pyramidnumber(5);
 
 //     }
@@ -29,4 +29,4 @@
 //         inverted_roteted_half_pyramidnumber(4);
 
 //     }
-/ }
+// }
