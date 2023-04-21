@@ -29,4 +29,4 @@
 //         inverted_roteted_half_pyramidnumber(4);
 
 //     }
-/ }
+// }
