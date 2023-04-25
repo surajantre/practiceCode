@@ -5,7 +5,7 @@
 //             if(n%i==0){
 //                 boolean given  = false;
 //                 break;
-//             }
+/             }
 //         }
 //     return true;
 //     }
