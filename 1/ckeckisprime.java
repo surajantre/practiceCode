@@ -5,7 +5,7 @@
 //             if(n%i==0){
 //                 boolean given  = false;
 //                 break;
-/             }
+//             }
 //         }
 //     return true;
 //     }
@@ -31,7 +31,7 @@
 //         return true;
 //     }
 //     public static void main(String[] args){
-//         System.out.println(isprimecheck(11));
+/         System.out.println(isprimecheck(11));
 
 //     }
 // }
