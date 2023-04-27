@@ -31,7 +31,7 @@
 //         return true;
 //     }
 //     public static void main(String[] args){
-/         System.out.println(isprimecheck(11));
+//         System.out.println(isprimecheck(11));
 
 //     }
 // }
@@ -52,5 +52,5 @@
 //     public static void main(String[] args){
 //         System.out.println(isprime(11));
 
-//     }
+/     }
 
