@@ -11,7 +11,7 @@
 //             n=n/2;
 //         }
 //         System.out.println("your binary number is " + binNum);
-//     }
+/     }
 //     public static void main(String[] args){
 //         dtob(9);
 
