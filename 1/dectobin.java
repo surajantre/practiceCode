@@ -39,7 +39,7 @@
 //         }
 //         System.out.println("your binary number is " + binNum);
 //     }
-/     public static void main(String args[]){
+//     public static void main(String args[]){
 //         dtob(0);
 //      }
 //  }   
