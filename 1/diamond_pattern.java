@@ -5,8 +5,8 @@
 //                 System.out.print(" ");
 //             }
 //             for (int j = 1; j <= (2*i)-1; j++) {
-s/                 System.out.print("*");
-/             }
+//                 System.out.print("*");
+//            }
 //             System.out.println();
 //         }
 //         for (int i = n; i >=1;i--){
@@ -41,7 +41,7 @@ s/                 System.out.print("*");
 //             System.out.println();
 
 //         }
-//         for (int i = n; i >=1; i--){    
+/         for (int i = n; i >=1; i--){    
 //             for (int j = 1;j <=n-i; j++){
 //                 System.out.print(" ");
 
