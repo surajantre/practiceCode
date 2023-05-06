@@ -35,7 +35,7 @@
 //         inverted_rotated_half_piramide(4);
 
 //     }
-// }
+/ }
 // public class prac{
 //     public static void inverted_rotated_half_piramide(int n){
 //         for(int i = 1; i <= n; i++){
