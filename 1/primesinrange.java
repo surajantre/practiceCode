@@ -5,7 +5,7 @@
 //             return true;
 //         }
 //         for(int j=2; j<=Math.sqrt(n); j++){
-//             if(n % j==0){
+/             if(n % j==0){
 //                 return false;
 
 //             }
