@@ -5,7 +5,7 @@
 //             return true;
 //         }
 //         for(int j=2; j<=Math.sqrt(n); j++){
-/             if(n % j==0){
+//             if(n % j==0){
 //                 return false;
 
 //             }
@@ -24,7 +24,7 @@
 //     public static void main(String[] args){
 //         isprimera(12);
 
-//     }
+/     }
 /// }
 
 // import javax.annotation.processing.SupportedAnnotationTypes;
