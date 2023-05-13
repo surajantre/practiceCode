@@ -24,7 +24,7 @@
 //     public static void main(String[] args){
 //         isprimera(12);
 
-/     }
+//     }
 /// }
 
 // import javax.annotation.processing.SupportedAnnotationTypes;
@@ -42,7 +42,7 @@
 //         } 
 //         return true;
 
-//     }
+/     }
 //     public static void isprimerange(int n){
 //         for (int i = 2; i<=n; i++){
 //             if(isprime(i)){
