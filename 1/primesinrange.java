@@ -42,7 +42,7 @@
 //         } 
 //         return true;
 
-/     }
+//     }
 //     public static void isprimerange(int n){
 //         for (int i = 2; i<=n; i++){
 //             if(isprime(i)){
@@ -55,7 +55,7 @@
 //         isprimerange(12);
 
 //     }
-// }
+/ }
 
 
 
