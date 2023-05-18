@@ -7,7 +7,7 @@
 //                     minpos = j;
 
 //                 }
-/             }
+//             }
 //             int temp = arr[minpos];
 //             arr[minpos] = arr[i];
 //             arr[i] = temp;
@@ -28,7 +28,7 @@
 //     }
 // }
 
-// class selectionsort{
+/ class selectionsort{
 //     public static void selection(int arr[]){
 //         for(int i=0;i<arr.length;i++){
 //             int minpos = i;
