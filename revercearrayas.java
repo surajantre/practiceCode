@@ -29,7 +29,7 @@
 
 
 // class revercearrayas{
-//     public static void ra(int arr[]){
+/     public static void ra(int arr[]){
 //         int start = 0;
 //         int last = arr.length - 1;
 
