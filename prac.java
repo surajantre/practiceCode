@@ -6,7 +6,7 @@
 //             }
 //             for(int j=1; j<=(2*i)-1; j++){
 //                 System.out.print("*");
-//             }
+/             }
 //             System.out.println();
 
 //         }
@@ -93,7 +93,7 @@
 //         int arr[] ={1,2,3,4,5,6,7,8,9,0};
 //         int key = 8;
 //         System.out.println(binarySearch(arr, key));
-/     }
+//     }
 // }
 
 
