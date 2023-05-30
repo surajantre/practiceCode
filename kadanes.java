@@ -30,7 +30,7 @@
 //                 maxsum = 0;
 //             }
 //             maxsum=Math.max(maxsum, currsum);
-//         }
+/         }
 //         System.out.println("our max sum is = "+maxsum);
 //     }
 //     public static void main(String[] args) {
