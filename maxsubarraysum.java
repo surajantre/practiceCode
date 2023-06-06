@@ -16,7 +16,7 @@
             
 //             if(currsum>maxsum){
 //                 maxsum = currsum;
-//             }
+/             }
 //         }
 //     }
 //     System.out.print("maxsum = " + maxsum);

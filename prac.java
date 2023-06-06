@@ -112,7 +112,7 @@
 
 //             }
 //             if (arr[mid] <key){
-/                 start=mid+1;
+//                 start=mid+1;
 //             }else{
 //                 last=mid-1;
 //             }
