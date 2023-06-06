@@ -34,7 +34,7 @@
 //         int maxsum = Integer.MIN_VALUE;
 
 //         for(int i=0;i<arr.length;i++){
-/             int start =i;
+//             int start =i;
 //             for(int j=start;j<arr.length;j++){
 //                 int  end = j;
 //                 currsum = 0;
@@ -46,7 +46,7 @@
 //                     maxsum = currsum;
 //                 }
 //             }
-//         }
+         }
 //         System.out.print("maxsum = "+ maxsum);
  //     }
 // /     public static void main(String[] args) {
