@@ -52,7 +52,7 @@
 //         System.out.println();;
 //     }
 //     public static void main(String args[]){
-//         isprimerange(12);
+        isprimerange(12);
 
-//     }
-// }
+    }
+}
