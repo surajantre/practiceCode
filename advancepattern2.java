@@ -33,7 +33,7 @@
 //     public static void main(String[] args){
 //         inverted_roteted_half_pyramid(4);
 
-    }
+//     }
 
 
-}
+// }

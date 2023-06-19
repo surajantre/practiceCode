@@ -26,7 +26,7 @@
 //         }
 //     }
 //     public static void main(String[] args){
-//         inverted_roteted_half_pyramidnumber(4);
+        inverted_roteted_half_pyramidnumber(4);
 
-//     }
-// }
+    }
+}
