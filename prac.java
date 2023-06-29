@@ -167,3 +167,73 @@
 
 //     }
 // }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class prsc{
+//     public static void allinone(int topRow, int topCol){
+//         for(int i =1;i<=topRow;i++){
+//             for(int j =1;j<=topCol;j++){
+//                 if(i==1||i==topRow||j==1||j==topCol){
+//                     System.out.print("*");
+//                 }else{
+//                     System.out.print(" ");
+//                 }
+//             }
+//             System.out.println();
+//         }
+
+//     }
+//     public static void main(String[] args){
+//         allinone(4, 5);
+
+//     }
+
+// }
