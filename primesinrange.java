@@ -30,7 +30,7 @@
 // import javax.annotation.processing.SupportedAnnotationTypes;
 
 // public class primesinrange{
-//     public static boolean isprime(int n){
+   //  public static boolean isprime(int n){
 //         if (n==2){
 //             return true;
 //         }
