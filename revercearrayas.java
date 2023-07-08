@@ -5,7 +5,7 @@
 //         int start = 0;
 //         int last = arr.length - 1;
 
-//         if(start<last){
+/         if(start<last){
 //             int temp = arr[start];
 //             arr[start] = arr[last];
 //             arr[last] = temp;
