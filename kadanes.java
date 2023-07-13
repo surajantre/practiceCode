@@ -20,7 +20,7 @@
 
 
 // class kadanes{
-//     public static void kadan(int arr[]){
+/     public static void kadan(int arr[]){
 //         int maxsum = Integer.MIN_VALUE;
 //         int currsum = 0;
 
