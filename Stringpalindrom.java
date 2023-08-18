@@ -36,3 +36,5 @@ public class Stringpalindrom{
         System.out.println(ispalidrom(str));
     }
 }
+
+public
