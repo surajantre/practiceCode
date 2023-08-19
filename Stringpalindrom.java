@@ -37,4 +37,4 @@ public class Stringpalindrom{
     }
 }
 
-public
+//public
