@@ -7,7 +7,6 @@ public class Stringpalindrom{
             } 
         }
         return true;
-
     }
     public static void main(String args []){
         String str = "madam";
