@@ -29,7 +29,7 @@
 //         for(int i=1;i<=topRows;i++){
 //             for(int j=1;j<=topCols;j++){
 //                 if(i==1||i==topRows||j==1||j==topCols){
-//                     System.out.print("*");
+                     System.out.print("*");
 //                 }else{
 //                     System.out.print(" ");
 //                 }
