@@ -99,7 +99,7 @@
 //         }
 //     }
 //     public static void main(String[] args){
-//         bet(5);
+         bet(5);
 
 //     }
 // }
