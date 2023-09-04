@@ -99,7 +99,7 @@
 //         }
 //     }
 //     public static void main(String[] args){
-         bet(5);
+ //        bet(5);
 
 //     }
 // }
@@ -119,7 +119,7 @@
 //             System.out.println();
 //         }
 //     }
-//     public static void main (String[] args){
+     public static void main (String[] args){
 //         ca(5);
 
 //     }
