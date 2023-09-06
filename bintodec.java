@@ -7,7 +7,7 @@
 
 //     while(binNum>0){
 //         int LastDig =  binNum% 10;
-//         decNum = decNum + (LastDig+(int)Math.pow(2,pow));
+ //        decNum = decNum + (LastDig+(int)Math.pow(2,pow));
 //         pow++;
 //         binNum = binNum / 10;
 // }
