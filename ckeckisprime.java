@@ -10,7 +10,7 @@
 //     return true;
 //     }
 //     public static void main(String args[]){
-         System.out.println(isprimecheck(9));
+//         System.out.println(isprimecheck(9));
 
 //     }
     
