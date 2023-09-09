@@ -46,7 +46,7 @@
 //                 System.out.print(" ");
 
 //             }
-            for (int j = 1; j <=(2*i)-1 ;j++){
+  //          for (int j = 1; j <=(2*i)-1 ;j++){
 //                 System.out.print("*");
 //             }
 //             System.out.println();
@@ -55,7 +55,7 @@
 //         }
         
 //     }
-//     public static void main(String[] args){
+     public static void main(String[] args){
 //         dia(5);
 
 //     }
