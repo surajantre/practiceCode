@@ -22,7 +22,7 @@
 // class kadanes{
 //     public static void kadan(int arr[]){
 //         int maxsum = Integer.MIN_VALUE;
-// /        int currsum = 0;
+//         int currsum = 0;
 
 //         for(int i=0;i<arr.length;i++){
 //             currsum += arr[i];
