@@ -32,8 +32,7 @@
 // public class basicandesyesorting{
 //     public static void main(String[] args) {
 //         int arr[] = {8,97,86,76,565,54,1};
-//         Arrays.sort(arr);
-
+/         Arrays.sort(arr);
 //         for(int i=0 ; i<arr.length; i++) {
 //             System.out.print(arr[i]+" ");
 //         }
