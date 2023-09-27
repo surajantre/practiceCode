@@ -91,7 +91,7 @@
 
 //     }
 //     public static void main(String[] args){
-/         allinone(4, 5);
+//         allinone(4, 5);
 
 //     }
 
