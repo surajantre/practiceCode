@@ -24,7 +24,7 @@
 //         int arr[] = {1,2,3,2,1,3,4,3,2,1,3,3,2,1};
 //         count(arr);
         
-/         for(int i = 0;i<arr.length;i++){
+//         for(int i = 0;i<arr.length;i++){
 //             System.out.println(arr[i] + " ");
 //         }
 

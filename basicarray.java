@@ -4,7 +4,7 @@
     
 //         int array[]=new int [100];
 
-/         Scanner sc = new Scanner(System.in);
+//         Scanner sc = new Scanner(System.in);
 
 //          array[0]=sc.nextInt();
 //          array[1]=sc.nextInt();
