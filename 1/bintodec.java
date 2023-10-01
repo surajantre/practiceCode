@@ -28,7 +28,7 @@
 //     public static void btod(int binNum){
 //         int myNum = binNum;
 //         int pow = 0;
-/         int decNum = 0;
+//         int decNum = 0;
 
 //         while(binNum>0){
 //             int LastDig = binNum % 10;
